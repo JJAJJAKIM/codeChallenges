@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class Solution5 {
     public static void main(String[] args) {
 
-        System.out.println(solution(3,4, inc));
+        System.out.println();
     }
 
     /* 1번 문제
